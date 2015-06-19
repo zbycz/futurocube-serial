@@ -1,0 +1,25 @@
+{
+  "name": "futurocube-serial",
+  "version": "1.0.0",
+  "description": "Listen to Futurocube's printf messages with node.js",
+  "author": {
+    "name": "Pavel Zbytovský",
+    "email": "zbytovsky@gmail.com",
+    "url": "http://zby.cz"
+  },
+  "main": "./futurocube-serial",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/zbycz/futurocube-serial.git"
+  },
+  "dependencies": {
+    "serialport": "1.7.4"
+  },
+  "engines": {
+    "node": ">= 0.10.0"
+  },
+  "bugs": {
+    "url": "https://github.com/zbycz/futurocube-serial/issues"
+  },
+  "homepage": "https://github.com/zbycz/futurocube-serial"
+}
